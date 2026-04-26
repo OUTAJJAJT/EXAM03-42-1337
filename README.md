@@ -23,7 +23,6 @@ A collection of Python mini-exercises (algorithmic/string/list manipulation task
 ## Notes
 
 - Most scripts include inline `print(...)` tests for quick manual verification.
-- In `pattern_tracker/`, the subject file is named `subjext.txt` (typo) instead of `subject.txt`.
 
 ## Run Any Exercise
 
